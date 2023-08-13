@@ -24,3 +24,5 @@ function array(string) {
       
       return result;
 }
+
+hendend
