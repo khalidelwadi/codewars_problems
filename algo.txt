@@ -1,0 +1,10 @@
+
+
+input == [1,1,1,3,2,3,56,77,77,88,45,34,45,88]
+
+output == [1,3,2,56,77,88,45,34]
+
+for each number in input 
+    loop thourgh all the array searching for that specific number
+        if it does exist then
+            delete the duplicate
